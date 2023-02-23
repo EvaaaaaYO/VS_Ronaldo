@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="D_assets.png">
+	<!-- Created witD Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="D DOWN POSE0000" x="2100" y="1600" width="450" height="700"   />
+	<SubTexture name="D DOWN POSE0001" x="2100" y="1600" width="450" height="700"   />
+	<SubTexture name="D DOWN POSE0002" x="2550" y="1600" width="450" height="700"   />
+	<SubTexture name="D DOWN POSE0003" x="2550" y="1600" width="450" height="700"   />
+	<SubTexture name="D DOWN POSE0004" x="3000" y="1600" width="450" height="700"   />
+	<SubTexture name="D DOWN POSE0005" x="3000" y="1600" width="450" height="700"   />
+	<SubTexture name="D DOWN POSE0006" x="2550" y="1600" width="450" height="700"   />
+	<SubTexture name="D DOWN POSE0007" x="2550" y="1600" width="450" height="700"   />
+	<SubTexture name="D DOWN POSE0008" x="3000" y="1600" width="450" height="700"   />
+	<SubTexture name="D DOWN POSE0009" x="3000" y="1600" width="450" height="700"   />
+	<SubTexture name="D DOWN POSE0010" x="2550" y="1600" width="450" height="700"   />
+	<SubTexture name="D DOWN POSE0011" x="2550" y="1600" width="450" height="700"   />
+	<SubTexture name="D DOWN POSE0012" x="3000" y="1600" width="450" height="700"   />
+	<SubTexture name="D DOWN POSE0013" x="3000" y="1600" width="450" height="700"   />
+
+	<SubTexture name="D NOTE DOWN MISS0000" x="2100" y="1600" width="450" height="700"   />
+	<SubTexture name="D NOTE DOWN MISS0001" x="2550" y="2300" width="450" height="700"   />
+	<SubTexture name="D NOTE DOWN MISS0002" x="2550" y="2300" width="450" height="700"   />
+	<SubTexture name="D NOTE DOWN MISS0003" x="3000" y="2300" width="450" height="700"   />
+	<SubTexture name="D NOTE DOWN MISS0004" x="3000" y="2300" width="450" height="700"   />
+	<SubTexture name="D NOTE DOWN MISS0005" x="3000" y="2300" width="450" height="700"   />
+	<SubTexture name="D NOTE DOWN MISS0006" x="3000" y="2300" width="450" height="700"   />
+	<SubTexture name="D NOTE DOWN MISS0007" x="3000" y="2300" width="450" height="700"   />
+	<SubTexture name="D NOTE DOWN MISS0008" x="3000" y="2300" width="450" height="700"   />
+	<SubTexture name="D NOTE DOWN MISS0009" x="3000" y="2300" width="450" height="700"   />
+	<SubTexture name="D NOTE DOWN MISS0010" x="3000" y="2300" width="450" height="700"   />
+	<SubTexture name="D NOTE DOWN MISS0011" x="3000" y="2300" width="450" height="700"   />
+	<SubTexture name="D NOTE DOWN MISS0012" x="3000" y="2300" width="450" height="700"   />
+	<SubTexture name="D NOTE DOWN MISS0013" x="3000" y="2300" width="450" height="700"   />
+	<SubTexture name="D NOTE DOWN MISS0014" x="3000" y="2300" width="450" height="700"   />
+	<SubTexture name="D NOTE DOWN MISS0015" x="3000" y="2300" width="450" height="700"   />
+	<SubTexture name="D NOTE DOWN MISS0016" x="3000" y="2300" width="450" height="700"   />
+	<SubTexture name="D NOTE DOWN MISS0017" x="3000" y="2300" width="450" height="700"   />
+	<SubTexture name="D NOTE DOWN MISS0018" x="3000" y="2300" width="450" height="700"   />
+	<SubTexture name="D NOTE DOWN MISS0019" x="3000" y="2300" width="450" height="700"   />
+	<SubTexture name="D NOTE DOWN MISS0020" x="3000" y="2300" width="450" height="700"   />
+	<SubTexture name="D NOTE DOWN MISS0021" x="3000" y="2300" width="450" height="700"   />
+	<SubTexture name="D NOTE DOWN MISS0022" x="3000" y="2300" width="450" height="700"   />
+	<SubTexture name="D NOTE DOWN MISS0023" x="3000" y="2300" width="450" height="700"   />
+
+
+	<SubTexture name="D Idle0000" x="0" y="0" width="500" height="790"  />
+	<SubTexture name="D Idle0001" x="0" y="0" width="500" height="790"  />
+	<SubTexture name="D Idle0002" x="500" y="0" width="500" height="790"   />
+	<SubTexture name="D Idle0003" x="500" y="0" width="500" height="790"   />
+	<SubTexture name="D Idle0004" x="1000" y="0" width="500" height="790" />
+	<SubTexture name="D Idle0005" x="1000" y="0" width="500" height="790" />
+	<SubTexture name="D Idle0006" x="1500" y="0" width="500" height="790"  />
+	<SubTexture name="D Idle0007" x="1500" y="0" width="500" height="790"  />
+	<SubTexture name="D Idle0008" x="2000" y="0" width="500" height="790"  />
+	<SubTexture name="D Idle0009" x="2000" y="0" width="500" height="790"  />
+	<SubTexture name="D Idle0010" x="2500" y="0" width="500" height="790" />
+	<SubTexture name="D Idle0011" x="2500" y="0" width="500" height="790" />
+	<SubTexture name="D Idle0012" x="3000" y="0" width="500" height="790" />
+	<SubTexture name="D Idle0013" x="3000" y="0" width="500" height="790" />
+    <!--下面的是left-->
+	<SubTexture name="D Left Pose0000" x="0" y="1600" width="410" height="700"   />
+	<SubTexture name="D Left Pose0001" x="0" y="1600" width="410" height="700"   />
+	<SubTexture name="D Left Pose0002" x="410" y="1600" width="410" height="700" />
+	<SubTexture name="D Left Pose0003" x="410" y="1600" width="410" height="700"/>
+	<SubTexture name="D Left Pose0004" x="820" y="1600" width="410" height="700"/>
+	<SubTexture name="D Left Pose0005" x="820" y="1600" width="410" height="700"/>
+	<SubTexture name="D Left Pose0006" x="410" y="1600" width="410" height="700"/>
+	<SubTexture name="D Left Pose0007" x="410" y="1600" width="410" height="700"/>
+	<SubTexture name="D Left Pose0008" x="820" y="1600" width="410" height="700"/>
+	<SubTexture name="D Left Pose0009" x="820" y="1600" width="410" height="700"/>
+	<SubTexture name="D Left Pose0010" x="410" y="1600" width="410" height="700"/>
+	<SubTexture name="D Left Pose0011" x="410" y="1600" width="410" height="700"/>
+	<SubTexture name="D Left Pose0012" x="820" y="1600" width="410" height="700"/>
+	<SubTexture name="D Left Pose0013" x="820" y="1600" width="410" height="700"/>
+	<SubTexture name="D Left Pose0014" x="410" y="1600" width="410" height="700"/>
+	<SubTexture name="D Left Pose0015" x="410" y="1600" width="410" height="700"/>
+
+	<SubTexture name="D NOTE Left MISS0000" x="0" y="1600" width="410" height="700"/>
+	<SubTexture name="D NOTE Left MISS0001" x="1230" y="1600" width="410" height="700"/>
+	<SubTexture name="D NOTE Left MISS0002" x="1230" y="1600" width="410" height="700"/>
+	<SubTexture name="D NOTE Left MISS0003" x="1640" y="1600" width="410" height="700" />
+	<SubTexture name="D NOTE Left MISS0004" x="1640" y="1600" width="410" height="700" />
+	<SubTexture name="D NOTE Left MISS0005" x="1640" y="1600" width="410" height="700" />
+	<SubTexture name="D NOTE Left MISS0006" x="1640" y="1600" width="410" height="700" />
+	<SubTexture name="D NOTE Left MISS0007" x="1640" y="1600" width="410" height="700" />
+	<SubTexture name="D NOTE Left MISS0008" x="1640" y="1600" width="410" height="700" />
+	<SubTexture name="D NOTE Left MISS0009" x="1640" y="1600" width="410" height="700" />
+	<SubTexture name="D NOTE Left MISS0010" x="1640" y="1600" width="410" height="700" />
+	<SubTexture name="D NOTE Left MISS0011" x="1640" y="1600" width="410" height="700" />
+	<SubTexture name="D NOTE Left MISS0012" x="1640" y="1600" width="410" height="700" />
+	<SubTexture name="D NOTE Left MISS0013" x="1640" y="1600" width="410" height="700" />
+	<SubTexture name="D NOTE Left MISS0014" x="1640" y="1600" width="410" height="700" />
+	<SubTexture name="D NOTE Left MISS0015" x="1640" y="1600" width="410" height="700" />
+	<SubTexture name="D NOTE Left MISS0016" x="1640" y="1600" width="410" height="700" />
+	<SubTexture name="D NOTE Left MISS0017" x="1640" y="1600" width="410" height="700" />
+	<SubTexture name="D NOTE Left MISS0018" x="1640" y="1600" width="410" height="700" />
+	<SubTexture name="D NOTE Left MISS0019" x="1640" y="1600" width="410" height="700" />
+	<SubTexture name="D NOTE Left MISS0020" x="1640" y="1600" width="410" height="700" />
+	<SubTexture name="D NOTE Left MISS0021" x="1640" y="1600" width="410" height="700" />
+	<SubTexture name="D NOTE Left MISS0022" x="1640" y="1600" width="410" height="700" />
+	<SubTexture name="D NOTE Left MISS0023" x="1640" y="1600" width="410" height="700" />
+
+    <!--
+    
+-->
+
+	<!--下面的是right-->
+    <SubTexture name="D Pose Right0000" x="0" y="2300" width="500" height="800"/>
+	<SubTexture name="D Pose Right0001" x="0" y="2300" width="500" height="800"/>
+	<SubTexture name="D Pose Right0002" x="500" y="2300" width="500" height="800"/>
+	<SubTexture name="D Pose Right0003" x="500" y="2300" width="500" height="800"/>
+	<SubTexture name="D Pose Right0004" x="1000" y="2300" width="500" height="800"/>
+	<SubTexture name="D Pose Right0005" x="1000" y="2300" width="500" height="800"/>
+	<SubTexture name="D Pose Right0006" x="500" y="2300" width="500" height="800"/>
+	<SubTexture name="D Pose Right0007" x="500" y="2300" width="500" height="800"/>
+	<SubTexture name="D Pose Right0008" x="1000" y="2300" width="500" height="800"/>
+	<SubTexture name="D Pose Right0009" x="1000" y="2300" width="500" height="800"/>
+	<SubTexture name="D Pose Right0010" x="500" y="2300" width="500" height="800"/>
+	<SubTexture name="D Pose Right0011" x="500" y="2300" width="500" height="800"/>
+	<SubTexture name="D Pose Right0012" x="1000" y="2300" width="500" height="800"/>
+	<SubTexture name="D Pose Right0013" x="1000" y="2300" width="500" height="800"/>
+	
+	<SubTexture name="D NOTE Right MISS0000" x="0" y="2300" width="500" height="800"/>
+	<SubTexture name="D NOTE Right MISS0001" x="1500" y="2300" width="500" height="800"/>
+	<SubTexture name="D NOTE Right MISS0002" x="1500" y="2300" width="500" height="800"/>
+	<SubTexture name="D NOTE Right MISS0003" x="2000" y="2300" width="500" height="800"/>
+	<SubTexture name="D NOTE Right MISS0004" x="2000" y="2300" width="500" height="800"/>
+	<SubTexture name="D NOTE Right MISS0005" x="2000" y="2300" width="500" height="800"/>
+	<SubTexture name="D NOTE Right MISS0006" x="2000" y="2300" width="500" height="800"/>
+	<SubTexture name="D NOTE Right MISS0007" x="2000" y="2300" width="500" height="800"/>
+	<SubTexture name="D NOTE Right MISS0008" x="2000" y="2300" width="500" height="800"/>
+	<SubTexture name="D NOTE Right MISS0009" x="2000" y="2300" width="500" height="800"/>
+	<SubTexture name="D NOTE Right MISS0010" x="2000" y="2300" width="500" height="800"/>
+	<SubTexture name="D NOTE Right MISS0011" x="2000" y="2300" width="500" height="800"/>
+	<SubTexture name="D NOTE Right MISS0012" x="2000" y="2300" width="500" height="800"/>
+	<SubTexture name="D NOTE Right MISS0013" x="2000" y="2300" width="500" height="800"/>
+	<SubTexture name="D NOTE Right MISS0014" x="2000" y="2300" width="500" height="800"/>
+	<SubTexture name="D NOTE Right MISS0015" x="2000" y="2300" width="500" height="800"/>
+	<SubTexture name="D NOTE Right MISS0016" x="2000" y="2300" width="500" height="800"/>
+	<SubTexture name="D NOTE Right MISS0017" x="2000" y="2300" width="500" height="800"/>
+	<SubTexture name="D NOTE Right MISS0018" x="2000" y="2300" width="500" height="800"/>
+	<SubTexture name="D NOTE Right MISS0019" x="2000" y="2300" width="500" height="800"/>
+	<SubTexture name="D NOTE Right MISS0020" x="2000" y="2300" width="500" height="800"/>
+	<SubTexture name="D NOTE Right MISS0021" x="2000" y="2300" width="500" height="800"/>
+	<SubTexture name="D NOTE Right MISS0022" x="2000" y="2300" width="500" height="800"/>
+   <!--
+   
+-->
+
+    <SubTexture name="D Up Pose0000" x="0" y="800" width="400" height="800"  />
+	<SubTexture name="D Up Pose0001" x="0" y="800" width="400" height="800"  />
+	<SubTexture name="D Up Pose0002" x="400" y="800" width="400" height="800" />
+	<SubTexture name="D Up Pose0003" x="400" y="800" width="400" height="800" />
+	<SubTexture name="D Up Pose0004" x="800" y="800" width="400" height="800" />
+	<SubTexture name="D Up Pose0005" x="800" y="800" width="400" height="800" />
+	<SubTexture name="D Up Pose0006" x="400" y="800" width="400" height="800" />
+	<SubTexture name="D Up Pose0007" x="400" y="800" width="400" height="800" />
+	<SubTexture name="D Up Pose0008" x="800" y="800" width="400" height="800" />
+	<SubTexture name="D Up Pose0009" x="800" y="800" width="400" height="800" />
+	<SubTexture name="D Up Pose0010" x="400" y="800" width="400" height="800" />
+	<SubTexture name="D Up Pose0011" x="400" y="800" width="400" height="800" />
+	<SubTexture name="D Up Pose0012" x="800" y="800" width="400" height="800" />
+	<SubTexture name="D Up Pose0013" x="800" y="800" width="400" height="800" />
+	
+
+	<SubTexture name="D NOTE UP MISS0000" x="0" y="800" width="400" height="800"/>
+	<SubTexture name="D NOTE UP MISS0001" x="1200" y="800" width="400" height="800"/>
+	<SubTexture name="D NOTE UP MISS0002" x="1200" y="800" width="400" height="800"/>
+	<SubTexture name="D NOTE UP MISS0003" x="1600" y="800" width="400" height="800" />
+	<SubTexture name="D NOTE UP MISS0004" x="1600" y="800" width="400" height="800" />
+	<SubTexture name="D NOTE UP MISS0005" x="1600" y="800" width="400" height="800" />
+	<SubTexture name="D NOTE UP MISS0006" x="1600" y="800" width="400" height="800" />
+	<SubTexture name="D NOTE UP MISS0007" x="1600" y="800" width="400" height="800" />
+	<SubTexture name="D NOTE UP MISS0008" x="1600" y="800" width="400" height="800" />
+	<SubTexture name="D NOTE UP MISS0009" x="1600" y="800" width="400" height="800" />
+	<SubTexture name="D NOTE UP MISS0010" x="1600" y="800" width="400" height="800" />
+	<SubTexture name="D NOTE UP MISS0011" x="1600" y="800" width="400" height="800" />
+	<SubTexture name="D NOTE UP MISS0012" x="1600" y="800" width="400" height="800" />
+	<SubTexture name="D NOTE UP MISS0013" x="1600" y="800" width="400" height="800" />
+	<SubTexture name="D NOTE UP MISS0014" x="1600" y="800" width="400" height="800" />
+	<SubTexture name="D NOTE UP MISS0015" x="1600" y="800" width="400" height="800" />
+	<SubTexture name="D NOTE UP MISS0016" x="1600" y="800" width="400" height="800" />
+	<SubTexture name="D NOTE UP MISS0017" x="1600" y="800" width="400" height="800" />
+	<SubTexture name="D NOTE UP MISS0018" x="1600" y="800" width="400" height="800" />
+	<SubTexture name="D NOTE UP MISS0019" x="1600" y="800" width="400" height="800" />
+	<SubTexture name="D NOTE UP MISS0020" x="1600" y="800" width="400" height="800" />
+	<SubTexture name="D NOTE UP MISS0021" x="1600" y="800" width="400" height="800" />
+	<SubTexture name="D NOTE UP MISS0022" x="1600" y="800" width="400" height="800" />
+	<SubTexture name="D NOTE UP MISS0023" x="1600" y="800" width="400" height="800" />
+	<!---->
+	<SubTexture name="D HEY0000" x="2000" y="800" width="430" height="800"/>
+	<SubTexture name="D HEY0001" x="2000" y="800" width="430" height="800"/>
+	<SubTexture name="D HEY0002" x="2500" y="800" width="430" height="800"/>
+	<SubTexture name="D HEY0003" x="2500" y="800" width="430" height="800"/>
+	<SubTexture name="D HEY0004" x="3000" y="800" width="430" height="800"/>
+	<SubTexture name="D HEY0005" x="3000" y="800" width="430" height="800"/>
+	<SubTexture name="D HEY0006" x="3000" y="800" width="430" height="800"/>
+	<SubTexture name="D HEY0007" x="3000" y="800" width="430" height="800"/>
+	<SubTexture name="D HEY0008" x="3000" y="800" width="430" height="800"/>
+	<SubTexture name="D HEY0009" x="3000" y="800" width="430" height="800"/>
+	<SubTexture name="D HEY0010" x="3000" y="800" width="430" height="800"/>
+	<SubTexture name="D HEY0011" x="3000" y="800" width="430" height="800"/>
+	<SubTexture name="D HEY0012" x="3000" y="800" width="430" height="800"/>
+	<SubTexture name="D HEY0013" x="3000" y="800" width="430" height="800"/>
+	<SubTexture name="D HEY0014" x="3000" y="800" width="430" height="800"/>
+	<SubTexture name="D HEY0015" x="3000" y="800" width="430" height="800"/>
+	<SubTexture name="D HEY0016" x="3000" y="800" width="430" height="800"/>
+	<SubTexture name="D HEY0017" x="3000" y="800" width="430" height="800"/>
+	<SubTexture name="D HEY0018" x="3000" y="800" width="430" height="800"/>
+	<SubTexture name="D HEY0019" x="3000" y="800" width="430" height="800"/>
+	<SubTexture name="D HEY0020" x="3000" y="800" width="430" height="800"/>
+	<SubTexture name="D HEY0021" x="3000" y="800" width="430" height="800"/>
+	<SubTexture name="D HEY0022" x="3000" y="800" width="430" height="800"/>
+	<SubTexture name="D HEY0023" x="3000" y="800" width="430" height="800"/>
+	<SubTexture name="D HEY0024" x="3000" y="800" width="430" height="800"/>
+	<SubTexture name="D HEY0025" x="3000" y="800" width="430" height="800"/>
+</TextureAtlas>

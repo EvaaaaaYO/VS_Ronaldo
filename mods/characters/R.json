@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "R Idle"
+		},
+		{
+			"offsets": [
+				174,
+				15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "R Left Pose"
+		},
+		{
+			"offsets": [
+				-24,
+				-57
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "R Pose Left"
+		},
+		{
+			"offsets": [
+				-15,
+				-137
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "R DOWN POSE"
+		},
+		{
+			"offsets": [
+				-12,
+				49
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "R Up Pose"
+		},
+		{
+			"offsets": [
+				608,
+				85
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "shock",
+			"indices": [],
+			"name": "R shock"
+		},
+		{
+			"offsets": [
+				576,
+				-34
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "walk",
+			"indices": [],
+			"name": "R walk"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/R_Assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "R",
+	"flip_x": false,
+	"healthbar_colors": [
+		201,
+		14,
+		61
+	],
+	"camera_position": [
+		0,
+		80
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

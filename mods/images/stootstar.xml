@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="stootstar.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="stootstar Idle0000" x="0" y="0" width="2560" height="500" />
+	<SubTexture name="stootstar Idle0001" x="0" y="0" width="2560" height="500" />
+	<SubTexture name="stootstar Idle0002" x="0" y="500" width="2560" height="500" />
+	<SubTexture name="stootstar Idle0003" x="0" y="500" width="2560" height="500" />
+	<SubTexture name="stootstar Idle0004" x="0" y="1000" width="2560" height="500" />
+	<SubTexture name="stootstar Idle0005" x="0" y="1000" width="2560" height="500" />
+	<SubTexture name="stootstar Idle0006" x="0" y="1500" width="2560" height="500" />
+	<SubTexture name="stootstar Idle0007" x="0" y="1500" width="2560" height="500" />
+	<SubTexture name="stootstar Idle0008" x="0" y="2000" width="2560" height="500" />
+	<SubTexture name="stootstar Idle0009" x="0" y="2000" width="2560" height="500" />
+	<SubTexture name="stootstar Idle0010" x="0" y="2500" width="2560" height="500" />
+	<SubTexture name="stootstar Idle0011" x="0" y="2500" width="2560" height="500" />
+	<SubTexture name="stootstar Idle0012" x="0" y="0" width="2560" height="500" />
+	<SubTexture name="stootstar Idle0013" x="0" y="0" width="2560" height="500" />
+	<SubTexture name="stootstar Idle0014" x="0" y="0" width="2560" height="500" />
+
+    <SubTexture name="stootstar Ttop0000" x="0" y="0" width="2560" height="500" />
+	
+
+	<!-- 
+		<SubTexture name="stootstar Idle0000" x="0" y="0" width="2560" height="500" />
+	<SubTexture name="stootstar Idle0001" x="0" y="0" width="2560" height="500" />
+	<SubTexture name="stootstar Idle0002" x="0" y="500" width="2560" height="500" />
+	<SubTexture name="stootstar Idle0003" x="0" y="500" width="2560" height="500" />
+	<SubTexture name="stootstar Idle0004" x="0" y="500" width="2560" height="500" />
+	<SubTexture name="stootstar Idle0005" x="0" y="1000" width="2560" height="500" />
+	<SubTexture name="stootstar Idle0006" x="0" y="1000" width="2560" height="500" />
+	<SubTexture name="stootstar Idle0007" x="0" y="1000" width="2560" height="500" />
+	<SubTexture name="stootstar Idle0008" x="0" y="1500" width="2560" height="500" />
+	<SubTexture name="stootstar Idle0009" x="0" y="1500" width="2560" height="500" />
+	<SubTexture name="stootstar Idle0010" x="0" y="1500" width="2560" height="500" />
+	<SubTexture name="stootstar Idle0011" x="0" y="2000" width="2560" height="500" />
+	<SubTexture name="stootstar Idle0012" x="0" y="2000" width="2560" height="500" />
+	<SubTexture name="stootstar Idle0013" x="0" y="2000" width="2560" height="500" />
+	<SubTexture name="stootstar Idle0014" x="0" y="2500" width="2560" height="500" />
+	<SubTexture name="stootstar Idle0015" x="0" y="2500" width="2560" height="500" />
+	<SubTexture name="stootstar Idle0016" x="0" y="2500" width="2560" height="500" />
+	<SubTexture name="stootstar Idle0017" x="0" y="0" width="2560" height="500" />
+	<SubTexture name="stootstar Idle0018" x="0" y="0" width="2560" height="500" />
+	<SubTexture name="stootstar Idle0019" x="0" y="0" width="2560" height="500" />
+	<SubTexture name="stootstar Idle0020" x="0" y="0" width="2560" height="500" />
+	<SubTexture name="stootstar Idle0021" x="0" y="0" width="2560" height="500" />
+	<SubTexture name="stootstar Idle0022" x="0" y="0" width="2560" height="500" />
+	-->
+	
+</TextureAtlas>

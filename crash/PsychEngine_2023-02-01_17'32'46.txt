@@ -1,0 +1,18 @@
+C:\HaxeToolkit\haxe\std/haxe/xml/Access.hx (line 44)
+flixel/graphics/frames/FlxAtlasFrames.hx (line 261)
+Character.hx (line 164)
+editors/CharacterEditorState.hx (line 925)
+editors/CharacterEditorState.hx (line 434)
+FlxUIDropDownMenuCustom.hx (line 512)
+FlxUIDropDownMenuCustom.hx (line 361)
+flixel/ui/FlxButton.hx (line 521)
+flixel/addons/ui/FlxUITypedButton.hx (line 1172)
+flixel/addons/ui/FlxUIButton.hx (line 362)
+flixel/ui/FlxButton.hx (line 507)
+openfl/events/EventDispatcher.hx (line 402)
+openfl/display/DisplayObject.hx (line 1399)
+
+Uncaught Error: SubTexture is missing attribute frameWidth
+Please report this error to the GitHub page: https://github.com/ShadowMario/FNF-PsychEngine
+
+> Crash Handler written by: sqirra-rng

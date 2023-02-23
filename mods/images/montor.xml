@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="montor.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+
+
+	<SubTexture name="montor Idle0000" x="0" y="1500" width="1000" height="500" />
+	<SubTexture name="montor Idle0001" x="0" y="1500" width="1000" height="500" />
+	<SubTexture name="montor Idle0002" x="1000" y="1500" width="1000" height="500" />
+	<SubTexture name="montor Idle0003" x="1000" y="1500" width="1000" height="500" />
+	<SubTexture name="montor Idle0004" x="0" y="0" width="1000" height="500" />
+	<SubTexture name="montor Idle0005" x="0" y="0" width="1000" height="500" />
+    <SubTexture name="montor Idle0006" x="1000" y="0" width="1000" height="500" />
+	<SubTexture name="montor Idle0007" x="1000" y="0" width="1000" height="500" />
+	<SubTexture name="montor Idle0008" x="2000" y="0" width="1000" height="500" />
+	<SubTexture name="montor Idle0009" x="2000" y="0" width="1000" height="500" />
+	<SubTexture name="montor Idle0010" x="3000" y="0" width="1000" height="500" />
+	<SubTexture name="montor Idle0011" x="3000" y="0" width="1000" height="500" />
+    <SubTexture name="montor Idle0012" x="0" y="500" width="1000" height="500" />
+    <SubTexture name="montor Idle0013" x="0" y="500" width="1000" height="500" /> 
+    <SubTexture name="montor Idle0014" x="1000" y="500" width="1000" height="500" />
+	<SubTexture name="montor Idle0015" x="1000" y="500" width="1000" height="500" />
+	<SubTexture name="montor Idle0016" x="2000" y="500" width="1000" height="500" />
+	<SubTexture name="montor Idle0017" x="2000" y="500" width="1000" height="500" />
+	<SubTexture name="montor Idle0018" x="3000" y="500" width="1000" height="500" />
+	<SubTexture name="montor Idle0019" x="3000" y="500" width="1000" height="500" />
+    <SubTexture name="montor Idle0020" x="0" y="1000" width="1000" height="500" />
+	<SubTexture name="montor Idle0021" x="0" y="1000" width="1000" height="500" />
+	<SubTexture name="montor Idle0022" x="1000" y="1000" width="1000" height="500" />
+	<SubTexture name="montor Idle0023" x="1000" y="1000" width="1000" height="500" />
+	<SubTexture name="montor Idle0024" x="2000" y="1000" width="1000" height="500" />
+	<SubTexture name="montor Idle0025" x="2000" y="1000" width="1000" height="500" />
+    <SubTexture name="montor Idle0026" x="3000" y="1000" width="1000" height="500" />
+    <SubTexture name="montor Idle0027" x="3000" y="1000" width="1000" height="500" />
+	<SubTexture name="montor Idle0028" x="0" y="1500" width="1000" height="500" />
+	
+
+<!-- 
+	
+		<SubTexture name="montor Idle0000" x="0" y="1500" width="1000" height="500" />
+	<SubTexture name="montor Idle0001" x="0" y="1500" width="1000" height="500" />
+	<SubTexture name="montor Idle0002" x="1000" y="1500" width="1000" height="500" />
+	<SubTexture name="montor Idle0003" x="1000" y="1500" width="1000" height="500" />
+	<SubTexture name="montor Idle0004" x="0" y="0" width="1000" height="500" />
+	<SubTexture name="montor Idle0005" x="0" y="0" width="1000" height="500" />
+	
+    <SubTexture name="montor ToFace0000" x="1000" y="0" width="1000" height="500" />
+	<SubTexture name="montor ToFace0001" x="1000" y="0" width="1000" height="500" />
+	<SubTexture name="montor ToFace0002" x="2000" y="0" width="1000" height="500" />
+	<SubTexture name="montor ToFace0003" x="2000" y="0" width="1000" height="500" />
+	<SubTexture name="montor ToFace0004" x="3000" y="0" width="1000" height="500" />
+	<SubTexture name="montor ToFace0005" x="3000" y="0" width="1000" height="500" />
+    <SubTexture name="montor ToFace0006" x="0" y="500" width="1000" height="500" />
+    <SubTexture name="montor ToFace0007" x="0" y="500" width="1000" height="500" />
+	<SubTexture name="montor ToFace0008" x="0" y="500" width="1000" height="500" />
+    <SubTexture name="montor ToFace0009" x="0" y="500" width="1000" height="500" />
+	 <SubTexture name="montor ToFace0010" x="0" y="500" width="1000" height="500" />
+    <SubTexture name="montor ToFace0011" x="0" y="500" width="1000" height="500" />
+	 <SubTexture name="montor ToFace0012" x="0" y="500" width="1000" height="500" />
+    
+ 
+	
+    -注意
+    <SubTexture name="montor ToFace0008" x="0" y="1000" width="1000" height="500" />
+	<SubTexture name="montor ToFace0009" x="0" y="1000" width="1000" height="500" />
+	<SubTexture name="montor ToFace0010" x="1000" y="1000" width="1000" height="500" />
+	<SubTexture name="montor ToFace0011" x="1000" y="1000" width="1000" height="500" />
+	<SubTexture name="montor ToFace0012" x="2000" y="1000" width="1000" height="500" />
+	<SubTexture name="montor ToFace0013" x="2000" y="1000" width="1000" height="500" />
+    <SubTexture name="montor ToFace0014" x="3000" y="1000" width="1000" height="500" />
+    <SubTexture name="montor ToFace0015" x="3000" y="1000" width="1000" height="500" />
+    -
+    <SubTexture name="montor Face0000" x="1000" y="500" width="1000" height="500" />
+	<SubTexture name="montor Face0001" x="1000" y="500" width="1000" height="500" />
+	<SubTexture name="montor Face0002" x="2000" y="500" width="1000" height="500" />
+	<SubTexture name="montor Face0003" x="2000" y="500" width="1000" height="500" />
+	<SubTexture name="montor Face0004" x="3000" y="500" width="1000" height="500" />
+	<SubTexture name="montor Face0005" x="3000" y="500" width="1000" height="500" />
+    
+    <SubTexture name="montor ToIdle0000" x="0" y="1000" width="1000" height="500" />
+	<SubTexture name="montor ToIdle0001" x="0" y="1000" width="1000" height="500" />
+	<SubTexture name="montor ToIdle0002" x="1000" y="1000" width="1000" height="500" />
+	<SubTexture name="montor ToIdle0003" x="1000" y="1000" width="1000" height="500" />
+	<SubTexture name="montor ToIdle0004" x="2000" y="1000" width="1000" height="500" />
+	<SubTexture name="montor ToIdle0005" x="2000" y="1000" width="1000" height="500" />
+    <SubTexture name="montor ToIdle0005" x="3000" y="1000" width="1000" height="500" />
+    <SubTexture name="montor ToIdle0005" x="3000" y="1000" width="1000" height="500" />
+	
+	-->
+	
+</TextureAtlas>

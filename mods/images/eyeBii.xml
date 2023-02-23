@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="eyeBii.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="eyeBii Idle0000" x="0" y="0" width="400" height="550" frameX="0" frameY="0" frameWidth="400" frameHeight="550"/>
+    <SubTexture name="eyeBii Idle0001" x="0" y="0" width="400" height="550" frameX="0" frameY="0" frameWidth="400" frameHeight="550"/>
+	<SubTexture name="eyeBii Idle0002" x="400" y="0" width="400" height="550" frameX="0" frameY="0" frameWidth="400" frameHeight="550" />
+    <SubTexture name="eyeBii Idle0003" x="400" y="0" width="400" height="550" frameX="0" frameY="0" frameWidth="400" frameHeight="550" />
+	<SubTexture name="eyeBii Idle0004" x="800" y="0" width="400" height="550" frameX="0" frameY="0" frameWidth="400" frameHeight="550"/>
+    <SubTexture name="eyeBii Idle0005" x="800" y="0" width="400" height="550" frameX="0" frameY="0" frameWidth="400" frameHeight="550"/>
+	<SubTexture name="eyeBii Idle0006" x="1200" y="0" width="400" height="550" frameX="0" frameY="0" frameWidth="400" frameHeight="550"/>
+	<SubTexture name="eyeBii Idle0007" x="1200" y="0" width="400" height="550" frameX="0" frameY="0" frameWidth="400" frameHeight="550"/>
+    <SubTexture name="eyeBii Idle0008" x="1200" y="0" width="400" height="550" frameX="0" frameY="0" frameWidth="400" frameHeight="550"/>
+    <SubTexture name="eyeBii Idle0009" x="1200" y="0" width="400" height="550" frameX="0" frameY="0" frameWidth="400" frameHeight="550"/>
+    <SubTexture name="eyeBii Idle0010" x="1200" y="0" width="400" height="550" frameX="0" frameY="0" frameWidth="400" frameHeight="550"/>
+    <SubTexture name="eyeBii Idle0011" x="1200" y="0" width="400" height="550" frameX="0" frameY="0" frameWidth="400" frameHeight="550"/>
+    <SubTexture name="eyeBii Idle0012" x="1200" y="0" width="400" height="550" frameX="0" frameY="0" frameWidth="400" frameHeight="550"/>
+	
+</TextureAtlas>

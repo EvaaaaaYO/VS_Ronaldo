@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-37
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "D Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-110
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "D Left Pose",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-115
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "D NOTE Left MISS"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-119,
+				-40
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "D Pose Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-119,
+				-40
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "D NOTE Right MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				-122
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "D DOWN POSE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				-122
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "D NOTE DOWN MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-33
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "D Up Pose",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-30,
+				-33
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "D NOTE UP MISS"
+		},
+		{
+			"offsets": [
+				-22,
+				-37
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "D HEY"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/D_Assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "D",
+	"flip_x": true,
+	"healthbar_colors": [
+		164,
+		41,
+		221
+	],
+	"camera_position": [
+		0,
+		80
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

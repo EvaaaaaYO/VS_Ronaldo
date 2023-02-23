@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="nobodyQQ_Assets.png">
+	<!-- Created witD Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+
+	<SubTexture name="N Idle0000" x="0" y="0" width="100" height="100"  />
+	
+   
+	<!---->
+</TextureAtlas>

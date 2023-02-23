@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="H_Assets.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="H DOWN POSE0000" x="1600" y="700" width="400" height="700"   />
+	<SubTexture name="H DOWN POSE0001" x="1600" y="700" width="400" height="700"   />
+	<SubTexture name="H DOWN POSE0002" x="2000" y="700" width="400" height="700"   />
+	<SubTexture name="H DOWN POSE0003" x="2000" y="700" width="400" height="700"   />
+	<SubTexture name="H DOWN POSE0004" x="2400" y="700" width="400" height="700"   />
+	<SubTexture name="H DOWN POSE0005" x="2400" y="700" width="400" height="700"   />
+	<SubTexture name="H DOWN POSE0006" x="2800" y="700" width="400" height="700"   />
+	<SubTexture name="H DOWN POSE0007" x="2800" y="700" width="400" height="700"   />
+	<SubTexture name="H DOWN POSE0008" x="2400" y="700" width="400" height="700"   />
+	<SubTexture name="H DOWN POSE0009" x="2400" y="700" width="400" height="700"   />
+	<SubTexture name="H DOWN POSE0010" x="2800" y="700" width="400" height="700"   />
+	<SubTexture name="H DOWN POSE0011" x="2800" y="700" width="400" height="700"   />
+	<SubTexture name="H DOWN POSE0012" x="2400" y="700" width="400" height="700"   />
+
+	<SubTexture name="H Idle0000" x="0" y="0" width="400" height="700"  />
+	<SubTexture name="H Idle0001" x="0" y="0" width="400" height="700"  />
+	<SubTexture name="H Idle0002" x="400" y="0" width="400" height="700"   />
+	<SubTexture name="H Idle0003" x="400" y="0" width="400" height="700"   />
+	<SubTexture name="H Idle0004" x="800" y="0" width="400" height="700" />
+	<SubTexture name="H Idle0005" x="800" y="0" width="400" height="700" />
+	<SubTexture name="H Idle0006" x="1200" y="0" width="400" height="700"  />
+	<SubTexture name="H Idle0007" x="1200" y="0" width="400" height="700"  />
+	<SubTexture name="H Idle0008" x="1600" y="0" width="400" height="700"  />
+	<SubTexture name="H Idle0009" x="1600" y="0" width="400" height="700"  />
+	<SubTexture name="H Idle0010" x="2000" y="0" width="400" height="700" />
+	<SubTexture name="H Idle0011" x="2000" y="0" width="400" height="700" />
+	<SubTexture name="H Idle0012" x="2400" y="0" width="400" height="700" />
+	<SubTexture name="H Idle0013" x="2400" y="0" width="400" height="700" />
+    <!--下面的是left-->
+	<SubTexture name="H Left Pose0000" x="0" y="1400" width="400" height="700"   />
+	<SubTexture name="H Left Pose0001" x="0" y="1400" width="400" height="700"   />
+	<SubTexture name="H Left Pose0002" x="400" y="1400" width="400" height="700" />
+	<SubTexture name="H Left Pose0003" x="400" y="1400" width="400" height="700"/>
+	<SubTexture name="H Left Pose0004" x="800" y="1400" width="400" height="700"/>
+	<SubTexture name="H Left Pose0005" x="800" y="1400" width="400" height="700"/>
+	<SubTexture name="H Left Pose0006" x="1200" y="1400" width="400" height="700"/>
+	<SubTexture name="H Left Pose0007" x="1200" y="1400" width="400" height="700"/>
+	<SubTexture name="H Left Pose0008" x="800" y="1400" width="400" height="700"/>
+	<SubTexture name="H Left Pose0009" x="800" y="1400" width="400" height="700"/>
+    <!--
+    <SubTexture name="H Left Pose0010" x="1200" y="1400" width="400" height="700"/>
+	<SubTexture name="H Left Pose0011" x="1200" y="1400" width="400" height="700"/>
+	<SubTexture name="H Left Pose0012" x="800" y="1400" width="400" height="700"/>
+	<SubTexture name="H Left Pose0013" x="800" y="1400" width="400" height="700"/>
+    <SubTexture name="H Left Pose0014" x="1200" y="1400" width="400" height="700"/>
+-->
+
+	<!--下面的是right-->
+    <SubTexture name="H Pose Left0000" x="1600" y="1400" width="400" height="700"/>
+	<SubTexture name="H Pose Left0001" x="1600" y="1400" width="400" height="700"/>
+	<SubTexture name="H Pose Left0002" x="2000" y="1400" width="400" height="700"  />
+	<SubTexture name="H Pose Left0003" x="2000" y="1400" width="400" height="700"  />
+	<SubTexture name="H Pose Left0004" x="2400" y="1400" width="400" height="700"  />
+	<SubTexture name="H Pose Left0005" x="2400" y="1400" width="400" height="700"  />
+	<SubTexture name="H Pose Left0006" x="2800" y="1400" width="400" height="700"  />
+	<SubTexture name="H Pose Left0007" x="2800" y="1400" width="400" height="700"  />
+	<SubTexture name="H Pose Left0008" x="2400" y="1400" width="400" height="700"  />
+	<SubTexture name="H Pose Left0009" x="2400" y="1400" width="400" height="700"  />
+   <!--
+    <SubTexture name="H Pose Left0010" x="2800" y="1400" width="400" height="700"  />
+	<SubTexture name="H Pose Left0011" x="2800" y="1400" width="400" height="700"  />
+	<SubTexture name="H Pose Left0012" x="2400" y="1400" width="400" height="700"  />
+	<SubTexture name="H Pose Left0013" x="2400" y="1400" width="400" height="700"  />
+    <SubTexture name="H Pose Left0014" x="2800" y="1400" width="400" height="700"  />
+-->
+    <SubTexture name="H Up Pose0000" x="0" y="700" width="400" height="700"  />
+	<SubTexture name="H Up Pose0001" x="0" y="700" width="400" height="700"  />
+	<SubTexture name="H Up Pose0002" x="400" y="700" width="400" height="700" />
+	<SubTexture name="H Up Pose0003" x="400" y="700" width="400" height="700" />
+	<SubTexture name="H Up Pose0004" x="800" y="700" width="400" height="700" />
+	<SubTexture name="H Up Pose0005" x="800" y="700" width="400" height="700" />
+	<SubTexture name="H Up Pose0006" x="1200" y="700" width="400" height="700" />
+	<SubTexture name="H Up Pose0007" x="1200" y="700" width="400" height="700" />
+	<SubTexture name="H Up Pose0008" x="800" y="700" width="400" height="700" />
+	<SubTexture name="H Up Pose0009" x="800" y="700" width="400" height="700" />
+	<SubTexture name="H Up Pose0010" x="1200" y="700" width="400" height="700" />
+	<SubTexture name="H Up Pose0011" x="1200" y="700" width="400" height="700" />
+	<SubTexture name="H Up Pose0012" x="800" y="700" width="400" height="700" />
+	<SubTexture name="H Up Pose0013" x="800" y="700" width="400" height="700" />
+	<SubTexture name="H Up Pose0014" x="1200" y="700" width="400" height="700" />
+
+	<!--jump-->
+    <SubTexture name="H jump0000" x="0" y="2100" width="400" height="700"  />
+	<SubTexture name="H jump0001" x="0" y="2100" width="400" height="700"  />
+	<SubTexture name="H jump0002" x="400" y="2100" width="400" height="700"  />
+	<SubTexture name="H jump0003" x="400" y="2100" width="400" height="700"  />
+	<SubTexture name="H jump0004" x="800" y="2100" width="400" height="700"  />
+	<SubTexture name="H jump0005" x="800" y="2100" width="400" height="700"  />
+	<SubTexture name="H jump0006" x="1200" y="2100" width="400" height="700"  />
+	<SubTexture name="H jump0007" x="1200" y="2100" width="400" height="700"  />
+	<SubTexture name="H jump0008" x="1600" y="2100" width="400" height="700"  />
+	<SubTexture name="H jump0009" x="1600" y="2100" width="400" height="700"  />
+	<SubTexture name="H jump0010" x="2000" y="2100" width="400" height="700"  />
+	<SubTexture name="H jump0011" x="2000" y="2100" width="400" height="700"  />
+	<SubTexture name="H jump0012" x="2400" y="2100" width="400" height="700"  />
+	<SubTexture name="H jump0013" x="2400" y="2100" width="400" height="700"  />
+<!--bye-->
+    <SubTexture name="bye0000" x="2800" y="0" width="400" height="700"  />
+	<SubTexture name="bye0001" x="2800" y="0" width="400" height="700"  />
+	<SubTexture name="bye0002" x="3200" y="0" width="400" height="700"  />
+	<SubTexture name="bye0003" x="3200" y="0" width="400" height="700"  />
+	<SubTexture name="bye0004" x="3600" y="0" width="400" height="700"  />
+	<SubTexture name="bye0005" x="3600" y="0" width="400" height="700"  />
+	<SubTexture name="bye0006" x="3200" y="700" width="400" height="700"  />
+	<SubTexture name="bye0007" x="3200" y="700" width="400" height="700"  />
+	<SubTexture name="bye0008" x="3600" y="700" width="400" height="700"  />
+	<SubTexture name="bye0009" x="3600" y="700" width="400" height="700"  />
+	<!---->
+</TextureAtlas>

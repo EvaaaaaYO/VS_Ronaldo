@@ -1,0 +1,10 @@
+{
+	"idle_anim": "M D Idle",
+	"confirm_anim": "M D Idle",
+	"position": [
+		15,
+		-43
+	],
+	"scale": 1,
+	"image": "Menu_D"
+}
