@@ -1,7 +1,6 @@
 ---
 ***VS_Ronaldo
 安安 
-如果要直接找 VS_Ronaldo.exe 的話，路徑在 (export\release\windows\bin)裡面  
 這個mod是吸血鬼馬上死的同人mod，成員只有我一個人，如果有冒犯或侵權的地方可以聯絡這個頁面:https://gamebanana.com/members/2503922
 抱歉我英文不好，只能用中文表達
 祝您有美好的一天:)))
