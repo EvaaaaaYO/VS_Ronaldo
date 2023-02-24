@@ -1,6 +1,6 @@
 
 function onCreate()
-	setProperty('scoreTxt.visible', false)
+	--setProperty('scoreTxt.visible', false)
 	-- CHARACTER
 	setPropertyFromClass('GameOverSubstate', 'characterName', 'D-dead');
 	
