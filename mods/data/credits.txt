@@ -5,3 +5,4 @@ Using Modding Tool
 pbulutbuba::none::Golden Apple Icon Bounce for Psych Engine::https://gamebanana.com/tools/9703::0xFFFD719B
 Villezen&bb-panzu::none::Dave's Fun Psych Engine Tutorials- Camera Flashing::https://www.youtube.com/watch?v=idI0_U2KpRM::0xFFFD719B
 _Boxed::none::Winning Icons for Psych Engine::https://gamebanana.com/tools/8553::0xFFFD719B
+SlightlyCreative::none::FNF - Boyfriend Soundfont::https://gamebanana.com/tools/7036::0xFFFD719B
